@@ -2,7 +2,7 @@
 
 Descrição:
 
-O jogo possui o mago com o fundo do espaço com estrelas, e possui goblins, bandidos, e ladroes como inimigos, e o poder é o poder de fogo que quando atinge algum inimigo ativa o flash. Quando algum inimigo acerta o mago, o mago é destruido e o jogo sera reiniciado. No canto superior esquerdo tem um rank com a pontuação de cada player q jogar.
+O jogo possui o mago com o fundo do espaço com estrelas, e possui goblins, bandidos, e ladroes como inimigos, e o poder é o poder de fogo que quando atinge algum inimigo ativa o flash. Quando algum inimigo acerta o mago, o mago é destruido e o jogo sera reiniciado. No canto superior esquerdo tem um rank com a pontuação de cada jogador q jogar. O jogo possui um banco de dados, utilizando o firebase do google para salvar a pontuação dos jogadores.
 
 Prints:
 
